@@ -38,3 +38,7 @@ DocuMind AI is a Retrieval-Augmented Generation (RAG) based chatbot that allows 
 ### Step 1: Install dependencies
 ```bash
 pip install langchain langchain-community langchain-text-splitters chromadb sentence-transformers pypdf
+
+
+## Citations Feature Added
+- Now supports page-level citations in answers
